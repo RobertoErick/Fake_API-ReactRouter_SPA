@@ -1,0 +1,16 @@
+{
+  "name": "fake-api_react-router.-navegacion-en-una-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
